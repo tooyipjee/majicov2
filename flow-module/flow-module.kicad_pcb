@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.1-stable)
+(kicad_pcb (version 4) (host pcbnew 4.0.7+dfsg1-1ubuntu2)
 
   (general
     (links 20)
     (no_connects 0)
-    (area 68.725 21.514999 119.455001 57.285)
+    (area 67.31 19.05 120.650001 58.420001)
     (thickness 1.6)
     (drawings 4)
     (tracks 77)
@@ -64,7 +64,7 @@
     (aux_axis_origin 0 0)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
-      (layerselection 0x01000_80000001)
+      (layerselection 0x010c0_80000001)
       (usegerberextensions false)
       (excludeedgelayer true)
       (linewidth 0.100000)
@@ -83,11 +83,11 @@
       (plotinvisibletext false)
       (padsonsilk false)
       (subtractmaskfromsilk false)
-      (outputformat 4)
+      (outputformat 1)
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory "Drill Files/"))
   )
 
   (net 0 "")
