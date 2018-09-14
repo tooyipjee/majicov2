@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.1-stable)
+(kicad_pcb (version 4) (host pcbnew 4.0.7+dfsg1-1ubuntu2)
 
   (general
     (links 63)
     (no_connects 2)
-    (area 74.93 82.55 154.940001 158.750001)
+    (area 81.28 85.09 148.590001 157.480001)
     (thickness 1.6)
     (drawings 6)
     (tracks 435)
@@ -83,7 +83,7 @@
       (plotinvisibletext false)
       (padsonsilk false)
       (subtractmaskfromsilk false)
-      (outputformat 1)
+      (outputformat 4)
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
